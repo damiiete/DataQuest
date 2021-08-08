@@ -1,2 +1,2 @@
 # DataQuest
-Repository of projects from data quest.
+Repository of projects done during training in data quest.
